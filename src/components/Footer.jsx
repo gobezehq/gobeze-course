@@ -22,16 +22,32 @@ const Footer = () => {
           </p>
           <div className='flex justify-center md:justify-start gap-6'>
             {' '}
-            <a href='https://www.facebook.com/wingobeze/'>
+            <a
+              href='https://www.facebook.com/wingobeze/'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
               <FaFacebook size={30} className='text-yellow-400' />
             </a>
-            <a href='https://et.linkedin.com/company/gobezeconsult'>
+            <a
+              href='https://et.linkedin.com/company/gobezeconsult'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
               <FaLinkedin size={30} className='text-yellow-400' />
             </a>
-            <a href='https://www.instagram.com/wingobeze/'>
+            <a
+              href='https://www.instagram.com/wingobeze/'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
               <FaInstagram size={30} className='text-yellow-400' />
             </a>
-            <a href='https://twitter.com/traingobeze'>
+            <a
+              href='https://twitter.com/traingobeze'
+              target='_blank'
+              rel='noopener noreferrer'
+            >
               <FaTwitter size={30} className='text-yellow-400' />
             </a>
           </div>

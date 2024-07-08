@@ -8,7 +8,7 @@ const Third = () => {
       style={{ backgroundImage: `url(${third})` }}
     >
       <div className='flex flex-col md:flex-row items-center justify-center gap-10 md:gap-0'>
-        <div className='flex flex-col flex-1 justify-center items-center gap-2 mt-20 md:mt-0'>
+        <div className='flex flex-col flex-1 justify-center items-center gap-2 mt-20 md:mt-0 finger-paint-regular'>
           <h1 className='text-yellow-300 font-semibold text-3xl'>
             {' '}
             Code Training

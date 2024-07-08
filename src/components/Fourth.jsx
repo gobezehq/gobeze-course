@@ -11,7 +11,7 @@ const Fourth = () => {
         <div className='flex flex-1 justify-center items-center mt-20 md:mt-0'>
           <img src={Kids} alt='' className='md:h-80 h-60 w-auto' />
         </div>
-        <div className='flex flex-col flex-1 justify-center items-center gap-2'>
+        <div className='flex flex-col flex-1 justify-center items-center gap-2 finger-paint-regular'>
           <h1 className='text-cyan-900 font-semibold text-3xl -ml-28'>
             {' '}
             Code Training
