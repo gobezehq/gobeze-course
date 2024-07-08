@@ -14,7 +14,7 @@ const Fourth = () => {
         <div className='flex flex-col flex-1 justify-center items-center gap-2 finger-paint-regular'>
           <h1 className='text-cyan-900 font-semibold text-3xl -ml-28'>
             {' '}
-            Code Training
+            Music Training
           </h1>
 
           <div className='flex flex-col gap-1'>
