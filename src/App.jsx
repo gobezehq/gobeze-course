@@ -8,12 +8,18 @@ function App() {
   return (
     <div className=''>
       <Hero />
-      <Second />
-      <div className=''>
+      <div className='my-20 md:my-0'>
+        <Second />
+      </div>
+      <div className='my-10 md:my-0'>
         <Third />
       </div>
-      <Fourth />
-      <Fifth />
+      <div className='my-10 md:my-0'>
+        <Fourth />
+      </div>
+      <div className='my-10 md:my-0'>
+        <Fifth />
+      </div>
       <div className='mt-20'>
         <Footer />
       </div>

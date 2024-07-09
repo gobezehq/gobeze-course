@@ -56,7 +56,7 @@ const Footer = () => {
       <div className='container mx-auto mt-5'>
         <hr />
         <p className='text-sm font-light mt-3'>
-          &copy; 2024 Your Company. All rights reserved.
+          &copy; 2024 Gobeze Consult. All rights reserved.
         </p>
       </div>
     </footer>

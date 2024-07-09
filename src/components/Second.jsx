@@ -23,21 +23,22 @@ const Second = () => {
           <div className='h-56 px-2 py-6 w-64 border-2 border-pink-600 rounded-xl flex flex-col items-center justify-center gap-2'>
             <img src={music} alt='scratch' />
             <h1 className='text-cyan-900 text-lg font-semibold'>
-              Code Training
+              Music Training
             </h1>
             <p className='text-cyan-900 text-xs text-center'>
               {' '}
-              Fun, interactive coding adventures for young tech enthusiasts!
+              Kids will Discover rhythms, melodies, and the joy of making music!
             </p>
           </div>
           <div className='h-56 px-2 py-6 w-64 border-2 border-pink-600 rounded-xl flex flex-col items-center justify-center gap-2'>
             <img src={art} alt='scratch' />
             <h1 className='text-cyan-900 text-lg font-semibold'>
-              Code Training
+              Art Training
             </h1>
             <p className='text-cyan-900 text-xs text-center'>
               {' '}
-              Fun, interactive coding adventures for young tech enthusiasts!
+              ubiquitous models rather than parallel initiatives. Seamlessly
+              reinvent success.
             </p>
           </div>
         </div>
