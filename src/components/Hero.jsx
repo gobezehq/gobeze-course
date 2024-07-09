@@ -22,7 +22,7 @@ const Hero = () => {
             target='_blank'
             rel='noopener noreferrer'
           >
-            Join Now
+            Register
           </a>
         </div>
         <div className='flex-1'></div>
